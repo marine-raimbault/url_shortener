@@ -62,7 +62,7 @@ iex> UrlShortener.expand(code)
 
 ## Current Status
 
-- [ ] Phase 1: Basic ETS implementation
+- [x] Phase 1: Basic ETS implementation
 - [ ] Phase 2: Add persistence and collision handling
 - [ ] Phase 3: Database optimization and caching
 - [ ] Phase 4: Multi-node distribution
